@@ -21,4 +21,4 @@ Este proyecto es un sistema básico para la gestión de un concesionario de veh�
 
 1. Clona este repositorio en tu máquina local:  
    ```bash  
-   git clone https://github.com/tu_usuario/tu_repositorio.git  
+https://github.com/dcja492002/Concesionario.git
